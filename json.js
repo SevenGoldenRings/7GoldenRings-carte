@@ -657,7 +657,7 @@ const data = {
       "image": "https://i.imgur.com/IVqoDDU.jpg",
       "dangerosité": "7",
       "dangerIndicatorHTML": generateDangerIndicator("0"),
-      "levelBalance": "béni",
+      "levelBalance": "gangrénée",
       "x": 613,
       "y": 809,
       "description": "La Tour Galate est un lieu sinistre et inquiétant au cœur duquel vivent les Anarkhias, des êtres humanoïdes déchus qui ont succombé à la tentation des ténèbres. Les Anarkhias ont élu domicile dans la tour, où ils se consacrent à des pratiques obscures et impies, cherchant à étendre leur influence maléfique sur le monde entier. Ils sont accompagnés des damnés, des êtres maudits qui ont été corrompus par la magie de la tour et qui ont choisi de se rallier aux Anarkhias.<br/><br/>La Tour Galate est l'incarnation même de la corruption et de la perversion. Elle se dresse fièrement dans le paysage, sombre et imposante, une véritable insulte à la beauté naturelle du monde. Les maudits ont investi les lieux, transformant la tour en leur forteresse personnelle. Ils y ont aménagé des salles de torture et de rituels impies, ainsi que des cachots où ils gardent captives leurs victimes."
@@ -670,7 +670,7 @@ const data = {
       "image": "https://i.imgur.com/GrHg8Pn.jpg",
       "dangerosité": "5",
       "dangerIndicatorHTML": generateDangerIndicator("0"),
-      "levelBalance": "béni",
+      "levelBalance": "gangrénée",
       "x": 887,
       "y": 923,
       "description": "Les cultures sanguines sont un lieu sinistre et corrompu où les émissaires de la Tour Galate pratiquent leur magie noire pour faire pousser des plantes et des créatures maléfiques. Ils ont réussi à maîtriser la magie du sang pour altérer la nature et créer des hybrides monstrueux. Le sol de cette parcelle de terrain est imprégné de sang de sacrifices rituels, ce qui confère une énergie ténébreuse à la terre, permettant une croissance rapide et malsaine des plantes.<br/><br/>Les plantes qui poussent dans les cultures sanguines sont cauchemardesques et dangereuses. Certaines sont recouvertes d'épines acérées qui peuvent transpercer la peau des voyageurs imprudents. D'autres sont carnivores, attirant leurs proies avec de fausses fleurs avant de les dévorer vivantes.Une partie de ces plantes sont le résultat de croisements génétiques entre des animaux sauvages et des espèces démoniaques, donnant naissance à des hybrides violents et terrifiants.<br/><br/>Les maudits utilisent des sortilèges et des poisons pour protéger leur domaine et ne laissent personne entrer sans permission. Les cultures sanguines sont un rappel effrayant du pouvoir corrompu de la tour Galate et un avertissement pour ceux qui chercheraient à s'opposer à eux."
