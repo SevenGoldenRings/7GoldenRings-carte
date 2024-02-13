@@ -802,7 +802,7 @@ const data = {
       "royaume": "Neutre",
       "lien": "82",
       "image": "https://i.imgur.com/hLLQv4O.jpg",
-      "dangerosité": "5",
+      "dangerosité": "7",
       "dangerIndicatorHTML": generateDangerIndicator("0"),
       "levelBalance": "corrompue",
       "x": 1100,
