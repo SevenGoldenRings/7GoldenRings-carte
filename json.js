@@ -682,7 +682,7 @@ const data = {
       "royaume": "Ananda",
       "lien": "7",
       "image": "https://i.imgur.com/LMMgEXu.jpg",
-      "dangerosité": "2",
+      "dangerosité": "7",
       "dangerIndicatorHTML": generateDangerIndicator("0"),
       "levelBalance": "gangrénée",
       "x": 1179,
